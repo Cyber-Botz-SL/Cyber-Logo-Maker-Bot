@@ -24,7 +24,7 @@
             "description": "Give Bot Username with @"
         },
         "SUPPORT_GROUP": {
-            "discription": " Give Support Group Username With @"
+            "discription": " Give Support Group Username With @ "
         }
     },
     "buildpacks": [
