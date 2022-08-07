@@ -1,1 +1,1 @@
-worker: python3 -m Cyber
+worker: python3 -m main
