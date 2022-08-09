@@ -20,7 +20,7 @@
 * `SUPPORT_GROUP` - Your Support Group
 * `BOT_USERNAME` - Your Bot username
 
-> Devolop by [ImRishmika](t.me/ImRishmika) | 📘 Powered By <a href="https://techzbotsapi.herokuapp.com/">TechZBots API</a>
+> Develop by [ImRishmika](t.me/ImRishmika) | 📘 Powered By <a href="https://techzbotsapi.herokuapp.com/">TechZBots API</a>
 
 ## 📤 Deploy
 
